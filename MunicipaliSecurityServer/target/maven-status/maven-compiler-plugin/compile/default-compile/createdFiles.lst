@@ -1,0 +1,17 @@
+acropollis\municipali\security\server\exceptions\ErrorController.class
+acropollis\municipali\security\server\exceptions\EntityAlreadyExistsException.class
+acropollis\municipali\security\server\rest\SecurityUserResource.class
+acropollis\municipali\security\server\config\SecurityDatabaseConfig.class
+acropollis\municipali\security\server\service\access\AccessService.class
+acropollis\municipali\security\server\service\user\UserService.class
+acropollis\municipali\security\server\rest_service\admin\SecurityAdminRestServiceImpl.class
+acropollis\municipali\security\server\config\SecuritySwaggerConfig.class
+acropollis\municipali\security\server\exceptions\ForbiddenException.class
+acropollis\municipali\security\server\rest\SecurityAdminResource.class
+acropollis\municipali\security\server\service\access\AccessServiceImpl.class
+acropollis\municipali\security\server\exceptions\EntityDoesNotExistException.class
+acropollis\municipali\security\server\rest_service\admin\SecurityAdminRestService.class
+acropollis\municipali\security\server\rest_service\user\SecurityUserRestServiceImpl.class
+acropollis\municipali\security\server\service\user\UserServiceImpl.class
+acropollis\municipali\security\server\rest_service\user\SecurityUserRestService.class
+acropollis\municipali\security\server\service\access\AccessServiceImpl$MunicipaliUserInfoAndToken.class

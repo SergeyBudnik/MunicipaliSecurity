@@ -1,0 +1,16 @@
+C:\Projects\MunicipaliSecurity\MunicipaliSecurityServer\src\main\java\acropollis\municipali\security\server\config\SecurityDatabaseConfig.java
+C:\Projects\MunicipaliSecurity\MunicipaliSecurityServer\src\main\java\acropollis\municipali\security\server\rest\SecurityUserResource.java
+C:\Projects\MunicipaliSecurity\MunicipaliSecurityServer\src\main\java\acropollis\municipali\security\server\service\user\UserService.java
+C:\Projects\MunicipaliSecurity\MunicipaliSecurityServer\src\main\java\acropollis\municipali\security\server\service\access\AccessServiceImpl.java
+C:\Projects\MunicipaliSecurity\MunicipaliSecurityServer\src\main\java\acropollis\municipali\security\server\config\SecuritySwaggerConfig.java
+C:\Projects\MunicipaliSecurity\MunicipaliSecurityServer\src\main\java\acropollis\municipali\security\server\rest_service\admin\SecurityAdminRestServiceImpl.java
+C:\Projects\MunicipaliSecurity\MunicipaliSecurityServer\src\main\java\acropollis\municipali\security\server\exceptions\EntityAlreadyExistsException.java
+C:\Projects\MunicipaliSecurity\MunicipaliSecurityServer\src\main\java\acropollis\municipali\security\server\rest_service\admin\SecurityAdminRestService.java
+C:\Projects\MunicipaliSecurity\MunicipaliSecurityServer\src\main\java\acropollis\municipali\security\server\rest_service\user\SecurityUserRestService.java
+C:\Projects\MunicipaliSecurity\MunicipaliSecurityServer\src\main\java\acropollis\municipali\security\server\exceptions\ForbiddenException.java
+C:\Projects\MunicipaliSecurity\MunicipaliSecurityServer\src\main\java\acropollis\municipali\security\server\rest_service\user\SecurityUserRestServiceImpl.java
+C:\Projects\MunicipaliSecurity\MunicipaliSecurityServer\src\main\java\acropollis\municipali\security\server\service\access\AccessService.java
+C:\Projects\MunicipaliSecurity\MunicipaliSecurityServer\src\main\java\acropollis\municipali\security\server\exceptions\EntityDoesNotExistException.java
+C:\Projects\MunicipaliSecurity\MunicipaliSecurityServer\src\main\java\acropollis\municipali\security\server\exceptions\ErrorController.java
+C:\Projects\MunicipaliSecurity\MunicipaliSecurityServer\src\main\java\acropollis\municipali\security\server\rest\SecurityAdminResource.java
+C:\Projects\MunicipaliSecurity\MunicipaliSecurityServer\src\main\java\acropollis\municipali\security\server\service\user\UserServiceImpl.java

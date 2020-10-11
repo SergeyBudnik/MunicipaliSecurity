@@ -1,0 +1,7 @@
+acropollis\municipali\security\client\admin\MunicipaliSecurityAdminClientImpl$1.class
+acropollis\municipali\security\client\exceptions\MunicipaliSecurityNetworkException.class
+acropollis\municipali\security\client\user\MunicipaliSecurityUserClientImpl.class
+acropollis\municipali\security\client\admin\MunicipaliSecurityAdminClientImpl.class
+acropollis\municipali\security\client\exceptions\MunicipaliSecurityCredentialsViolationException.class
+acropollis\municipali\security\client\admin\MunicipaliSecurityAdminClient.class
+acropollis\municipali\security\client\user\MunicipaliSecurityUserClient.class

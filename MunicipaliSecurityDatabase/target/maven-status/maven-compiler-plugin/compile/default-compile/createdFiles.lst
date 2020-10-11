@@ -1,0 +1,4 @@
+acropollis\municipali\security\database\converters\user\MunicipaliUserModelConverter.class
+acropollis\municipali\security\database\dao\MunicipaliUserDao.class
+acropollis\municipali\security\database\model\MunicipaliUserModel.class
+acropollis\municipali\security\database\converters\user\MunicipaliUserDtoConverter.class
